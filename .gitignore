@@ -1,0 +1,13 @@
+target/
+build/
+Debug/
+Release/
+.project
+.cproject
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.o
