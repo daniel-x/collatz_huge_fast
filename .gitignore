@@ -1,9 +1,7 @@
-target/
-build/
-Debug/
-Release/
-.project
-.cproject
+/target/
+/build/
+/Debug/
+/Release/
 *.i
 *.ii
 *.gpu
